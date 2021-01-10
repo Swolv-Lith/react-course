@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.Person {
+  width: 60%;
+  margin: 16px auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+}
+
+.button {
+    background-color: white;
+    font: inherit;
+    border: 2px solid #483d8b;
+    box-shadow: 0 2px 3px #8470ff;
+    padding: 8px;
+    cursor: pointer;
+}
